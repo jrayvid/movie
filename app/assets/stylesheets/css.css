@@ -1,0 +1,28 @@
+body {
+	background-color: slategray;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+
+h1 {
+	font-family: georgia;
+	font-size: 30px;
+	text-align: center;
+}
+#div1{
+	display: none;
+}
+
+input{
+	float: right;
+}
+
+.float {
+	float: left;
+}
